@@ -1,0 +1,53 @@
+output
+
+we are going to take the  0 th element of each row
+
+the row we are considering : [1, 2, 3, 4] and we are going to add 1 to a temporary list
+
+the row we are considering : [2, 3, 4, 5] and we are going to add 2 to a temporary list
+
+the row we are considering : [3, 4, 5, 6] and we are going to add 3 to a temporary list
+
+the  0 th column elements =  0 th elements in every row are = [1, 2, 3]
+
+==================================================
+
+we are going to take the  1 th element of each row
+
+the row we are considering : [1, 2, 3, 4] and we are going to add 2 to a temporary list
+
+the row we are considering : [2, 3, 4, 5] and we are going to add 3 to a temporary list
+
+the row we are considering : [3, 4, 5, 6] and we are going to add 4 to a temporary list
+
+the  1 th column elements =  1 th elements in every row are = [2, 3, 4]
+
+==================================================
+
+we are going to take the  2 th element of each row
+
+the row we are considering : [1, 2, 3, 4] and we are going to add 3 to a temporary list
+
+the row we are considering : [2, 3, 4, 5] and we are going to add 4 to a temporary list
+
+the row we are considering : [3, 4, 5, 6] and we are going to add 5 to a temporary list
+
+the  2 th column elements =  2 th elements in every row are = [3, 4, 5]
+
+==================================================
+
+we are going to take the  3 th element of each row
+
+the row we are considering : [1, 2, 3, 4] and we are going to add 4 to a temporary list
+
+the row we are considering : [2, 3, 4, 5] and we are going to add 5 to a temporary list
+
+the row we are considering : [3, 4, 5, 6] and we are going to add 6 to a temporary list
+
+the  3 th column elements =  3 th elements in every row are = [4, 5, 6]
+
+==================================================
+
+[[1, 2, 3], [2, 3, 4], [3, 4, 5], [4, 5, 6]]
+
+check this out: https://ideone.com/Z21ysE
